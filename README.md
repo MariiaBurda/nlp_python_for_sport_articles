@@ -1,6 +1,6 @@
 # NLP for sport articles
 Django project with NLP (Natural Language Processing) in Python for sport articles. 
-Used Python 3.7.5, spaCy 2.2.4, Django 3.0.6
+Used Python 3.7.5, spaCy 2.2.4, Django 3.0.7
 
 ### Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
